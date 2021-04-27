@@ -10,9 +10,12 @@ pip install -r requirements.txt
 
 ## Usage
 ### Before running the script
-Create an `.env` file in the root of this project folder. Within it include the URL of a __public__ YouTube Playlist.
-```
-PLAYLIST_URL=https://www.youtube.com/playlist?list=<PLAYLIST INFORMATION HERE>
+Clone this repository in any location on your machine. The download location can be different from this one.
+
+### Running the script
+Run `main.py` on your terminal like so, with the playlist URL as an argument:
+```bash
+python main.py https://www.youtube.com/playlist?list=<PLAYLIST INFORMATION HERE>
 ```
 
 ### Upon running the script
