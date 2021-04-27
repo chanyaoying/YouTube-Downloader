@@ -1,7 +1,7 @@
 # YouTube Downloader
 Download YouTube videos from a public playlist using pytube. If English captions are available, they will be downloaded in `.srt` files in the same directory. A `.txt` file containing metadata about the video is also created.
  
-To learn more about PyTube, <a href="https://pytube.io/en/latest/index.html" target="_blank">see the documentations here.</a>
+To learn more about PyTube, [see the documentations here.](https://pytube.io/en/latest/index.html)
 
 ## Installation
 Install the required dependencies from `requirements.txt` in this directory.
